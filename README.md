@@ -86,10 +86,10 @@
 		systemctl enable zabbix-agent 
 	
 
-![Cкриншот раздела Configuration] (https://github.com/sizik0ff/public1/blob/main/zb2.png)
+![Cкриншот раздела Configuration](https://github.com/sizik0ff/public1/blob/main/zb2.png)
 
-![Cкриншот лога zabbix agent] (https://github.com/sizik0ff/public1/blob/main/zb2.2.png)
+![Cкриншот лога zabbix agent](https://github.com/sizik0ff/public1/blob/main/zb2.2.png)
 
-![скриншот раздела Monitoring] (https://github.com/sizik0ff/public1/blob/main/zb2.3.png)
+![скриншот раздела Monitoring](https://github.com/sizik0ff/public1/blob/main/zb2.3.png)
 
 
