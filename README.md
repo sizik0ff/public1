@@ -88,8 +88,11 @@
 
 ![Cкриншот раздела Configuration](https://github.com/sizik0ff/public1/blob/main/zb2.png)
 
+![Cкриншот настроек конфига от агента к сервису ](https://github.com/sizik0ff/public1/blob/main/zb2.4.png)
+
 ![Cкриншот лога zabbix agent](https://github.com/sizik0ff/public1/blob/main/zb2.2.png)
 
 ![скриншот раздела Monitoring](https://github.com/sizik0ff/public1/blob/main/zb2.3.png)
 
+![zabbix-server YC](https://github.com/sizik0ff/public1/blob/main/zb3.png)
 
