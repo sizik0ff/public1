@@ -46,6 +46,7 @@
 		systemctl enable zabbix-server zabbix-agent apache2
 
 ![Web Zabbix](https://github.com/sizik0ff/public1/blob/main/zb1.png)
+
 ![Админ панель Zabbix](https://github.com/sizik0ff/public1/blob/main/zb1.1.png)
 
 
@@ -85,8 +86,10 @@
 		systemctl enable zabbix-agent 
 	
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![Cкриншот раздела Configuration] (https://github.com/sizik0ff/public1/blob/main/zb2.png)
 
+![Cкриншот лога zabbix agent] (https://github.com/sizik0ff/public1/blob/main/zb2.2.png)
 
+![скриншот раздела Monitoring] (https://github.com/sizik0ff/public1/blob/main/zb2.3.png)
 
 
