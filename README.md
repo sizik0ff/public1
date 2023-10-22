@@ -45,7 +45,7 @@
 		systemctl restart zabbix-server zabbix-agent apache2
 		systemctl enable zabbix-server zabbix-agent apache2
 
-![Название скриншота 1](ссылка на скриншот 1)`
+![Админ панель Zabbix](sizik0ff/public1/blob/main/zb1.png)`
 
 
 
