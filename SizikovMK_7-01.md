@@ -9,7 +9,7 @@
 
 Какие преимущества даёт подход IAC?
 
-Инфраструктура как код.
+IAC - Инфраструктура как код.
 Нет необходимости в ручную выполнять шаблонные действия, экономит ресурсы, время на поднятие инфраструктуры уменьшается, всегда идентичные копии инфраструктуры, маштабируемость инфраструктуры, возможное управление большим количеством машин одним специалистом. 
 
 ---
@@ -23,10 +23,15 @@
 3. Создайте файл inventory с созданными вами ВМ.
 4. Проверьте доступность хостов с помощью модуля ping.
 
+
 ![Установлен Анс](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2013-34-36.png)
+
 ![2 машины созданы](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-17-32.png)
+
 ![Фаил Hosts](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-16-31.png)
+
 ![Ping](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-16-59.png)
+
 
 ---
 
@@ -35,7 +40,8 @@
 **Ответьте на вопрос в свободной форме.**
 
 Какая разница между параметрами forks и serial? 
-
+Forks - Максимальное количество обрабатываемых хостов за раз.
+Serial - Опция которая разбивает, общее кол-во хостов на группы и позволяет обрабатывать их поочередно, т.е если serial=2, а хостов=4 , сначала в обработку поступят первая группа из 2-ух хостов, потом вторая группа. 
 ---
 
 ### Задание 4 
@@ -47,4 +53,20 @@
 1. Установите на управляемых хостах любой пакет, которого нет.
 2. Проверьте статус любого, присутствующего на управляемой машине, сервиса. 
 3. Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
- 
+
+![MC](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-51-40.png)
+
+![MC](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-52-01.png)
+
+
+![Systemctl](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-56-12.png)
+
+
+![netology.txt](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-30-50.png)
+
+![netology.txt](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-31-08.png)
+
+
+
+
+
