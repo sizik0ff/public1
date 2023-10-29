@@ -22,7 +22,12 @@
 2. Настройте управляемые виртуальные машины, не меньше двух.
 3. Создайте файл inventory с созданными вами ВМ.
 4. Проверьте доступность хостов с помощью модуля ping.
- 
+
+![Установлен Анс](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2013-34-36.png)
+![2 машины созданы](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-17-32.png)
+![Фаил Hosts](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-16-31.png)
+![Ping](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-10-29%2019-16-59.png)
+
 ---
 
 ### Задание 3 
