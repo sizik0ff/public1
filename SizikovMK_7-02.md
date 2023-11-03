@@ -57,25 +57,37 @@
 - предоставьте скриншоты выполнения плейбука;
 - предоставьте скриншот браузера, отображающего сконфигурированный index.html в качестве сайта.
 
+*Главный плейбук и структура роли*
 
+![](https://github.com/sizik0ff/public1/blob/main/startplaybook.png)
 
-!()[]
+*Установка + автозапуск Apache*
 
-!()[]
+![]([https://github.com/sizik0ff/public1/blob/main/startplaybook.png)
 
-!()[]
+*Проверка порта + настройка html*
 
-!()[]
+![](https://github.com/sizik0ff/public1/blob/main/connect.png)
 
-!()[]
+![]()
 
-!()[]
+*HTML*
 
-!()[]
+![](https://github.com/sizik0ff/public1/blob/main/html.png)
 
-!()[]
+*Сервер 1*
+
+![](https://github.com/sizik0ff/public1/blob/main/serverinfo1.png)
+
+*Сервер 2*
+
+![](https://github.com/sizik0ff/public1/blob/main/serverinfo2.png)
+
+*Конфигурация hosts*
+
+![](https://github.com/sizik0ff/public1/blob/main/hosts.png)
 
 *Сервера на yandex cloud*
 
-!(ya)[https://github.com/sizik0ff/public1/blob/main/yandex%20.png]
+![](https://github.com/sizik0ff/public1/blob/main/yandex%20.png)
 
