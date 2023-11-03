@@ -13,9 +13,18 @@
 2. Установить пакет tuned из стандартного репозитория вашей ОС. Запустить его, как демон — конфигурационный файл systemd появится автоматически при установке. Добавить tuned в автозагрузку.
 3. Изменить приветствие системы (motd) при входе на любое другое. Пожалуйста, в этом задании используйте переменную для задания приветствия. Переменную можно задавать любым удобным способом.
 
-![]()
-![]()
-![]()
+
+*Kafka*
+
+![Kafka](https://github.com/sizik0ff/public1/blob/main/playbook1.png)
+
+*Tuned*
+
+![tuned](https://github.com/sizik0ff/public1/blob/main/playbook2.png)
+
+*Motd*
+
+![motd](https://github.com/sizik0ff/public1/blob/main/playbook3.png)
 
 
 ### Задание 2
