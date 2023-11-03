@@ -63,13 +63,15 @@
 
 *Установка + автозапуск Apache*
 
-![]([https://github.com/sizik0ff/public1/blob/main/startplaybook.png)
+![](https://github.com/sizik0ff/public1/blob/main/installapache.png)
 
 *Проверка порта + настройка html*
 
 ![](https://github.com/sizik0ff/public1/blob/main/connect.png)
 
-![]()
+*main.yml*
+
+![](https://github.com/sizik0ff/public1/blob/main/main.png)
 
 *HTML*
 
