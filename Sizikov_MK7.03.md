@@ -115,6 +115,27 @@ output "external_ip_address_vm_1" {
 
 Провести тестирование. 
 
+*конфигурация main, (после скриншота вставил токен)*
+[](https://github.com/sizik0ff/public1/blob/main/maintf.png)
+
+*конфигурация мета*
+[](https://github.com/sizik0ff/public1/blob/main/meta.png)
+
+*отработка терраформа*
+[](https://github.com/sizik0ff/public1/blob/main/terraforminit.png)
+
+*создалась vm в YandexCloud*
+[](https://github.com/sizik0ff/public1/blob/main/yandex.png)
+
+*плейбук nginx*
+[](https://github.com/sizik0ff/public1/blob/main/playbookyaml.png)
+
+*отработка ansible*
+[](https://github.com/sizik0ff/public1/blob/main/ansibledone.png)
+
+*nginx установлен*
+[](https://github.com/sizik0ff/public1/blob/main/nginx.png)
+
 ---
 
 ## Дополнительные задания* (со звёздочкой)
