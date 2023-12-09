@@ -24,15 +24,12 @@
 ---
 
 *Crontab и скрипт*
-
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-09%2014-55-22.png)
 
 *Отработка скрипта*
-
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-09%2014-56-46.png)
 
 *syslog*
-
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-09%2014-57-32.png)
 
 ---
