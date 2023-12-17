@@ -80,11 +80,12 @@ listen web_tcp
 
         server s1 127.0.0.1:8888 check inter 3s
         server s2 127.0.0.1:9999 check inter 3s
+```
 
 haproxy работает, балансировка производится
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2012-05-11.png)
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2012-06-30.png)
-```
+
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
