@@ -7,13 +7,13 @@
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-Сервера запущены
+*Cервера запущены*
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2011-46-47.png)
 
-haproxy запущен
+*haproxy запущен*
 ![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2012-17-07.png)
 
-Конфиг haproxy
+*Конфиг haproxy*
 ```
 global
         log /dev/log    local0
@@ -93,6 +93,11 @@ haproxy работает, балансировка производится
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2012-34-29.png)
+
+![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2019-43-30.png)
+
+![](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-17%2019-44-05.png)
 
 
 ---
