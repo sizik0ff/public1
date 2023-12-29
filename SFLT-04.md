@@ -46,7 +46,23 @@
 
 ---
 
-# Terraform Playbook
+Terraform Playbook
+
 [main.tf](https://github.com/sizik0ff/public1/blob/main/main.tf)
 
+
+Отработка main.tf
+
+[1](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-29%2012-41-35.png)
+
+[2](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-29%2012-45-51.png)
+
+[3](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-29%2012-44-04.png)
+
+[4](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-29%2012-45-32.png)
+
+
+Переход по адресу балансировщика 
+
+[5](https://github.com/sizik0ff/public1/blob/main/Screenshot%20from%202023-12-29%2012-46-38.png)
 
